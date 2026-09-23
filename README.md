@@ -11,7 +11,7 @@ Traducción y doblaje al español para **MDK2 HD** (2011), adaptados a partir de
 - **Textos completamente en español**: menús, opciones, tutoriales, subtítulos y créditos. Revisados a un español neutro y adaptados a teclado y ratón.
 - **Doblaje original en español**: las voces de la versión clásica, convertidas al formato de audio nativo de la HD, así que se escuchan igual que las originales dentro del juego.
 - **Textos nuevos de la HD traducidos**: créditos de Overhaul Games y avisos de controles de PC que no existían en la versión clásica.
-- **Fuente corregida**: se añadió el símbolo `©`, que la fuente de la HD no incluía.
+- **Fuente corregida**: se añadieron símbolos, que la fuente de la HD no incluía.
 
 ## Requisitos
 
