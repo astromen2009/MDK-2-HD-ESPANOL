@@ -33,11 +33,6 @@ Traducción y doblaje al español para **MDK2 HD** (2011), adaptados a partir de
 
 Restaura tu copia de seguridad, o usa la opción de verificar/reparar archivos de Steam o GOG Galaxy para recuperar los archivos originales en inglés.
 
-## Problemas conocidos
-
-- **El juego se cierra al entrar en "Controles del Doctor".** Es un fallo de la propia versión HD: también ocurre con el juego original en inglés, no lo causa la traducción.
-- **Texturas negras en algunos equipos con gráficos Intel.** Es un problema del juego con el controlador OpenGL de Intel, independiente de la traducción.
-
 ## Herramientas
 
 En la carpeta [`herramientas`](herramientas/) están los scripts usados para crear esta traducción: un editor de los textos del juego (`mdk2.str`) y un conversor de voces del MDK2 clásico al formato de la HD. No son necesarios para jugar.
