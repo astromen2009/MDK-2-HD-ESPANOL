@@ -19,7 +19,7 @@ Traducción y doblaje al español para **MDK2 HD** (2011), adaptados a partir de
 
 ## Instalación
 
-1. Descarga el `.zip` de la sección [**Releases**](https://github.com/astromen2009/MDK2-HD-SPANISH/releases/latest).
+1. Descarga el comprimido [**Releases**](https://github.com/astromen2009/MDK2-HD-SPANISH/releases/latest).
 2. *(Recomendado)* Haz una copia de seguridad de la carpeta del juego.
 3. Descomprime el contenido del `.zip` en la **carpeta raíz del juego**, la misma donde está `mdk2hd.exe`.
 4. Si Windows pregunta por archivos existentes, elige **Reemplazar**.
